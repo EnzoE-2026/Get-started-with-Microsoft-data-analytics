@@ -1,13 +1,13 @@
 # Get started with Microsoft data analytics
 [Get started with Microsoft data analytics](https://learn.microsoft.com/en-us/training/paths/data-analytics-microsoft)
 
-Completed Microsoft’s Get Started with Data Analytics learning path, exploring the core responsibilities of a data analyst and how Power BI enables data‑driven decision‑making. Covered how to connect, clean, and transform data; build meaningful visualizations; and create reports and dashboards that support trusted insights across business environments.
+Completed *Microsoft’s Get Started with Data Analytics* learning module, exploring the core responsibilities of a data analyst and how Power BI enables data‑driven decision‑making. 
 
 # Notes
 
 ## Intro >> Unit 1/6
 
-** Why do we need Data Analysts? **
+*Why do we need Data Analysts?*
 - Businesses collect vast amounts of data (e.g., purchases, browsing behavior, aisle visits, spending habits)
 - Despite this, many struggle to use data meaningfully
 - The core issue: understanding the data and using it to drive action
