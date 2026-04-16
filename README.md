@@ -82,24 +82,24 @@ AI – Natural Language Processing (NLP), Computer Vision, AGI, and more!!
 
 ## Roles in data data >> Unit 3/6
 
-1.	Business analyst
+1. Business analyst
   - Close to the business and is a specialist in interpreting data
 
-2.	Data analyst
+2. Data analyst
   - A data analyst enables businesses to maximize the value of their data assets through visualization and reporting tools 
   - They are responsible for profiling, cleaning, and transforming data. 
   - Also responsible for designing and building scalable, effective semantic models
   - Works with stakeholders
 
-3.	Data engineer 
+3. Data engineer 
   - Provision and set up data platform technologies that are on-premises and in the cloud.
   - Manage all data sources and integration of data
 
-4.	Analytics engineer
+4. Analytics engineer
   - Bridge the gap between data engineering and analysis
   - They ensure data quality and enable self-service analytics
 
-5.	Data Scientist 
+5. Data Scientist 
   - Data scientists perform advanced analytics to extract value from data
   - Descriptive / Predicitve analytics
 
