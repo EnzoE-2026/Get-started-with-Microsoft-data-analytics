@@ -58,7 +58,7 @@ Example : Generating report to view sales and financial data
   3. Use statistical techniques to discover relationships and trends that explain these anomalies.
      o	Correlation analysis
 
-### 3. Predictive  analytics - *What will happen?(future)*?
+### 3. Predictive  analytics - *What will happen?(future)*
 Predictive analytics techniques use historical data to identify trends and determine if they're likely to recur.
 
 Examples/Techniques: 
