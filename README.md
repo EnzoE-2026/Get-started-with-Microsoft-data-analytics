@@ -85,7 +85,7 @@ AI – Natural Language Processing (NLP), Computer Vision, AGI, and more!!
 1. Business analyst
    - Close to the business and is a specialist in interpreting data
 
-3. Data analyst
+2. Data analyst
   - A data analyst enables businesses to maximize the value of their data assets through visualization and reporting tools 
   - They are responsible for profiling, cleaning, and transforming data. 
   - Also responsible for designing and building scalable, effective semantic models
