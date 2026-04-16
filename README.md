@@ -83,9 +83,9 @@ AI – Natural Language Processing (NLP), Computer Vision, AGI, and more!!
 ## Roles in data data >> Unit 3/6
 
 1. Business analyst
-  - Close to the business and is a specialist in interpreting data
+   - Close to the business and is a specialist in interpreting data
 
-2. Data analyst
+3. Data analyst
   - A data analyst enables businesses to maximize the value of their data assets through visualization and reporting tools 
   - They are responsible for profiling, cleaning, and transforming data. 
   - Also responsible for designing and building scalable, effective semantic models
