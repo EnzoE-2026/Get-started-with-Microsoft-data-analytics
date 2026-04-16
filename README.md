@@ -80,7 +80,7 @@ Examples:
 AI – Natural Language Processing (NLP), Computer Vision, AGI, and more!!
 
 
-## Roles in data data >> Unit 3/6
+## Roles in data >> Unit 3/6
 
 1. Business analyst
    - Close to the business and is a specialist in interpreting data
