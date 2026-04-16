@@ -86,10 +86,10 @@ AI – Natural Language Processing (NLP), Computer Vision, AGI, and more!!
    - Close to the business and is a specialist in interpreting data
 
 2. Data analyst
-  - A data analyst enables businesses to maximize the value of their data assets through visualization and reporting tools 
-  - They are responsible for profiling, cleaning, and transforming data. 
-  - Also responsible for designing and building scalable, effective semantic models
-  - Works with stakeholders
+   - A data analyst enables businesses to maximize the value of their data assets through visualization and reporting tools 
+   - They are responsible for profiling, cleaning, and transforming data. 
+   - Also responsible for designing and building scalable, effective semantic models
+   - Works with stakeholders
 
 3. Data engineer 
   - Provision and set up data platform technologies that are on-premises and in the cloud.
