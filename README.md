@@ -50,3 +50,33 @@ To analyze data, core components of analytics are divided into the following cat
 
 Example : Generating report to view sales and financial data
 
+### 2.	Diagnostic analytics  – *Why did it happen?*
+- Diagnostic analytics techniques supplement basic descriptive analytics. The findings from descriptive analytics are used to determine the cause of events. KPIS are investigated to determine why events improved or became worse, in 3 steps.
+
+  1. Identify anomalies in the data. These anomalies might be unexpected changes in a metric or a particular market.
+  2. Collect data that's related to these anomalies.
+  3. Use statistical techniques to discover relationships and trends that explain these anomalies.
+     o	Correlation analysis
+
+### 3. Predictive  analytics - *What will happen?(future)*?
+Predictive analytics techniques use historical data to identify trends and determine if they're likely to recur.
+
+Examples/Techniques: 
+  - Statistics
+  - ML algos – neural networks, decision trees and regression
+
+### 4. Prescriptive analytics  – *What should we do?(actions)*
+- Prescriptive analytics help answer questions about which actions should be taken to achieve a goal
+- Allow businesses to make informed decisions 
+- Prescriptive analytics techniques rely on ML as one of the strategies to find patterns in large semantic models
+- By analyzing past decisions and events, organizations can estimate the likelihood of different outcomes.
+
+### 5. Artificial Intelligence - *What can machines learn/decide automatically?(automating data analysis)*
+- Helps answer questions about your data 
+- AI refers to the simulation of human intelligence in machines that are programmed to think, learn, and adapt.  
+- In the context of analytics, AI enables systems to process vast amounts of data, recognize patterns, and deliver insights with minimal human intervention.
+  
+Examples: 
+AI – Natural Language Processing (NLP), Computer Vision, AGI, and more!!
+
+
