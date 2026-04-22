@@ -116,15 +116,15 @@ AI – Natural Language Processing (NLP), Computer Vision, AGI, and more!!
 
 ### 1. Prepare
  •	Before doing anything with the data, it must be prepared.
-•	Data preparation is the process of profiling, cleaning, and transforming  data to get it ready to model and visualize.
-•	Taking raw data and turning it into coherent information:
-  o	Data integrity
-  o	Corrections
-  o	Missing data
-  o	Converting data type
-  o	Readability 
-•	Connecting to data source 
-•	Privacy and security
+ •	Data preparation is the process of profiling, cleaning, and transforming  data to get it ready to model and visualize.
+ •	Taking raw data and turning it into coherent information:
+    o	Data integrity
+    o	Corrections
+    o	Missing data
+    o	Converting data type
+    o	Readability 
+ •	Connecting to data source 
+ •	Privacy and security
 
 ## 2. Manage 
 •	Power BI has many different applications used to conduct analysis:
