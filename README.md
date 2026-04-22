@@ -92,16 +92,16 @@ AI – Natural Language Processing (NLP), Computer Vision, AGI, and more!!
    - Works with stakeholders
 
 3. Data engineer 
-  - Provision and set up data platform technologies that are on-premises and in the cloud.
-  - Manage all data sources and integration of data
+    - Provision and set up data platform technologies that are on-premises and in the cloud.
+    - Manage all data sources and integration of data
 
 4. Analytics engineer
-  - Bridge the gap between data engineering and analysis
-  - They ensure data quality and enable self-service analytics
+    - Bridge the gap between data engineering and analysis
+    - They ensure data quality and enable self-service analytics
 
 5. Data Scientist 
-  - Data scientists perform advanced analytics to extract value from data
-  - Descriptive / Predicitve analytics
+    - Data scientists perform advanced analytics to extract value from data
+    - Descriptive / Predicitve analytics
 
 - Domains: Healthcare, Finance & Banking, E-Commerce, Retail, Professional Sports, Politics, and more — demonstrating strong versatility in data analysis across diverse industries.
 
@@ -118,11 +118,11 @@ AI – Natural Language Processing (NLP), Computer Vision, AGI, and more!!
  •	Before doing anything with the data, it must be prepared.
  •	Data preparation is the process of profiling, cleaning, and transforming  data to get it ready to model and visualize.
  •	Taking raw data and turning it into coherent information:
-    o	Data integrity
-    o	Corrections
-    o	Missing data
-    o	Converting data type
-    o	Readability 
+      o	Data integrity
+      o	Corrections
+      o	Missing data
+      o	Converting data type
+      o	Readability 
  •	Connecting to data source 
  •	Privacy and security
 
