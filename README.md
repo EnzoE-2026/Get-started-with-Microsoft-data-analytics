@@ -115,32 +115,32 @@ AI – Natural Language Processing (NLP), Computer Vision, AGI, and more!!
 
 
 ### 1. Prepare
- • Before doing anything with the data, it must be prepared.
- • Data preparation is the process of profiling, cleaning, and transforming  data to get it ready to model and visualize.
- • Taking raw data and turning it into coherent information:
+- Before doing anything with the data, it must be prepared.
+- Data preparation is the process of profiling, cleaning, and transforming  data to get it ready to model and visualize.
+- Taking raw data and turning it into coherent information:
       o	Data integrity
       o	Corrections
       o	Missing data
       o	Converting data type
       o	Readability 
- • Connecting to data source 
- • Privacy and security
+- Connecting to data source 
+- Privacy and security
 
 ## 2. Manage 
-•	Power BI has many different applications used to conduct analysis:
+- Power BI has many different applications used to conduct analysis:
     o	Reports
     o	Dashboards
     o	Workspaces
     o	Semantic models
     o	Readability 
 
-•	Connecting to data source 
-•	Privacy and security
+- Connecting to data source 
+- Privacy and security
 
 ## 3. Analyze
-  •	Find insights, identify patterns and trends, predict outcomes, and then communicate those insights in a way that everyone can understand.
-  •	With advanced analytics, organizations can drill into the data to predict future patterns and trends, identify activities and behaviors, and enable businesses to ask the appropriate questions about their data.
-  •	Users can quickly gain insights into their data by using visuals and metrics
+  - Find insights, identify patterns and trends, predict outcomes, and then communicate those insights in a way that everyone can understand.
+  - With advanced analytics, organizations can drill into the data to predict future patterns and trends, identify activities and behaviors, and enable businesses to ask the appropriate questions about their data.
+- Users can quickly gain insights into their data by using visuals and metrics
 
   ## 4. Model 
 When the data is in a proper state, it's ready to be modeled. Data modeling is the process of determining how your tables are related to each other. This is done by defining and creating relationships between the tables. From that point, you can enhance the (semantic) model by defining metrics and adding custom calculations to enrich your data.
